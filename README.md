@@ -1,4 +1,6 @@
 ### Hi there 👋, I am Payal Choudhary.
+Just another average coder trying to add semicolons to my problems and debugging my own self.
+
 
 <!--
 **payalchoudhary2410/payalchoudhary2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
